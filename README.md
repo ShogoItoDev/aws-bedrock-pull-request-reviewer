@@ -20,7 +20,7 @@
 ![Screenshot_03](https://github.com/ShogoItoDev/aws-bedrock-pull-request-reviewer/assets/30908643/953f0ff2-0dc8-46cb-ae0a-2f66bd494fbe)
 
 
-## セットアップ
+# セットアップ
 
 1.system_identifier を任意の値に変更する。
 
@@ -39,7 +39,7 @@
  ```
 
 
-## 使用方法
+# 使用方法
 
 1. CodeCommitで任意のブランチを作成後、プルリクエストを実施する。
    
