@@ -36,5 +36,10 @@
 ## 使用方法
 
 1. CodeCommitで任意のブランチを作成後、プルリクエストを実施する。
+   
+![Screenshot_01](https://github.com/ShogoItoDev/aws-bedrock-pull-request-reviewer/assets/30908643/2a6227f5-2306-448c-89ab-213ae5c203cc)
 
 2. 基盤モデル(Claude3 Sonnet)によりコメントが投稿されます。
+   
+![Screenshot_02](https://github.com/ShogoItoDev/aws-bedrock-pull-request-reviewer/assets/30908643/91025221-6593-4c34-bb18-3b4e4be7a67e)
+
